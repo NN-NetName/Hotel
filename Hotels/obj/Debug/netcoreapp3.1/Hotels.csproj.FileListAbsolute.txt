@@ -1,0 +1,9 @@
+C:\Users\study\Desktop\tests\Hotels\bin\Debug\netcoreapp3.1\Hotels.deps.json
+C:\Users\study\Desktop\tests\Hotels\bin\Debug\netcoreapp3.1\Hotels.dll
+C:\Users\study\Desktop\tests\Hotels\bin\Debug\netcoreapp3.1\Hotels.pdb
+C:\Users\study\Desktop\tests\Hotels\obj\Debug\netcoreapp3.1\Hotels.AssemblyInfoInputs.cache
+C:\Users\study\Desktop\tests\Hotels\obj\Debug\netcoreapp3.1\Hotels.AssemblyInfo.cs
+C:\Users\study\Desktop\tests\Hotels\obj\Debug\netcoreapp3.1\Hotels.csproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\tests\Hotels\obj\Debug\netcoreapp3.1\Hotels.dll
+C:\Users\study\Desktop\tests\Hotels\obj\Debug\netcoreapp3.1\Hotels.pdb
+C:\Users\study\Desktop\tests\Hotels\obj\Debug\netcoreapp3.1\Hotels.csprojAssemblyReference.cache
